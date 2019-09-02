@@ -1,0 +1,2 @@
+testing/images/24.png
+testing/images/10.png
